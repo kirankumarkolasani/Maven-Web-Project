@@ -16,7 +16,7 @@ node {
 	   
       stage('Sonar') {
                     //add stage sonar
-                   // sh 'mvn sonar:sonar'
+                   // bash 'mvn sonar:sonar'
                 }
 	
        
